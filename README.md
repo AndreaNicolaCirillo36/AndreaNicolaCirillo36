@@ -1,7 +1,9 @@
 # 👋 Ciao, sono Andrea Nicola Cirillo (@AndreaNicolaCirillo36)
 
 ## 👨‍💻 Chi sono
-Sono un software Developer con una forte passione per lo sviluppo web e la creazione di soluzioni scalabili ed efficienti. Attualmente lavoro nel settore IT e sto completando i miei studi in Informatica (L-31), dove ho consolidato le basi teoriche che applico quotidianamente nei miei progetti professionali. Cerco costantemente di migliorare le mie competenze tecniche e di esplorare nuove tecnologie per affrontare al meglio sfide complesse. Credo fermamente nel valore del clean code e delle best practice, e sono sempre aperto a collaborare su progetti stimolanti.
+Sono un software Developer con una forte passione per lo sviluppo web e la creazione di soluzioni scalabili ed efficienti. Attualmente lavoro nel settore IT e sto completando i miei studi in Informatica (L-31), dove ho consolidato le basi teoriche che applico quotidianamente nei miei progetti professionali.
+
+Cerco costantemente di migliorare le mie competenze tecniche e di esplorare nuove tecnologie per affrontare al meglio sfide complesse. Credo fermamente nel valore del clean code e delle best practice, e sono sempre aperto a collaborare su progetti stimolanti.
 
 ## 💼 Competenze
 - **Linguaggi**: Java, JavaScript
